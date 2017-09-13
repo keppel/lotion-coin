@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/keppel/lotion-coin"><img src="https://user-images.githubusercontent.com/1269291/30399865-f25d4b54-9889-11e7-9bed-a11da0494fac.png" alt="Lotion" width="250"></a>
+  <a href="https://github.com/keppel/lotion-coin"><img src="https://user-images.githubusercontent.com/1269291/30402850-ef3c569a-9893-11e7-959d-010c483bce7e.jpeg" alt="Lotion" width="150"></a>
   <br>
       Lotion coin
   <br>
@@ -86,3 +86,5 @@ Lcoin send --address <recipient address> --amount 123
 
 You can always open [http://localhost:3232](http://localhost:3232) while Lcoin is running to see the full JSON representation of the blockchain state from Lotion.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/1269291/30399865-f25d4b54-9889-11e7-9bed-a11da0494fac.png" alt="joco" width="250" align="center" /></p>
