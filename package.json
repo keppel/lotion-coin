@@ -1,6 +1,6 @@
 {
   "name": "lotion-coin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "a simple, extensible cryptocurrency written with Lotion",
   "main": "index.js",
   "bin": {
